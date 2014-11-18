@@ -2,6 +2,7 @@
 <resources>
 
     <string name="app_name">Pata de Chucho</string>
+    <string name="app_inicio_activity">Pata de Chucho</string>
     <string name="app_menu">Menu</string>
     <string name="title_inicio">Pata de Chucho</string>
     <string name="title_eventos">Eventos</string>
