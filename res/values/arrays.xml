@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <string-array name="patamenu_options">
+        <item>Inicio</item>
+        <item>Eventos</item>
+        <item>Galeria</item>
+        <item>Perfil</item>  
+    </string-array>
+ 
+</resources>

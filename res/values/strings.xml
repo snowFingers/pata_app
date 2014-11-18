@@ -2,13 +2,15 @@
 <resources>
 
     <string name="app_name">Pata de Chucho</string>
-    <string name="title_inicio">Inicio</string>
+    <string name="app_menu">Menu</string>
+    <string name="title_inicio">Pata de Chucho</string>
     <string name="title_eventos">Eventos</string>
     <string name="title_galeria">Galeria</string>
     <string name="title_perfil">Perfil</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="action_menu">Menu</string>
+	<string name="lbl_quienes_somos">Quienes Somos:</string>
     <string name="action_settings">Settings</string>
-
+<!--     <string name="action_menu">Accion</string> -->
+    
 </resources>
