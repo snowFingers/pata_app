@@ -23,7 +23,7 @@
         </activity>
         <activity 
             android:name=".IncioActivity"
-            android:label="@string/app_inicio_activity" >            
+            android:label="@string/title_inicio" >            
         </activity>
     </application>
 
