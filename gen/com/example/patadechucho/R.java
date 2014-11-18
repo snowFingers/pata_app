@@ -1091,6 +1091,7 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020059;
     }
     public static final class id {
+        public static final int action_acerca_de=0x7f050041;
         public static final int action_bar=0x7f05001c;
         public static final int action_bar_activity_content=0x7f050015;
         public static final int action_bar_container=0x7f05001b;
@@ -1257,17 +1258,18 @@ containing a value of this type.
         /**  Description of a share target (both in the list of such or the default share button) in a ShareActionProvider (share UI). [CHAR LIMIT=NONE] 
          */
         public static final int abc_shareactionprovider_share_with_application=0x7f0a000b;
-        public static final int action_settings=0x7f0a0017;
+        public static final int acerca_de=0x7f0a000f;
+        public static final int action_settings=0x7f0a0018;
         public static final int app_inicio_activity=0x7f0a000e;
-        public static final int app_menu=0x7f0a000f;
+        public static final int app_menu=0x7f0a0010;
         public static final int app_name=0x7f0a000d;
-        public static final int lbl_quienes_somos=0x7f0a0016;
-        public static final int navigation_drawer_close=0x7f0a0015;
-        public static final int navigation_drawer_open=0x7f0a0014;
-        public static final int title_eventos=0x7f0a0011;
-        public static final int title_galeria=0x7f0a0012;
-        public static final int title_inicio=0x7f0a0010;
-        public static final int title_perfil=0x7f0a0013;
+        public static final int lbl_quienes_somos=0x7f0a0017;
+        public static final int navigation_drawer_close=0x7f0a0016;
+        public static final int navigation_drawer_open=0x7f0a0015;
+        public static final int title_eventos=0x7f0a0012;
+        public static final int title_galeria=0x7f0a0013;
+        public static final int title_inicio=0x7f0a0011;
+        public static final int title_perfil=0x7f0a0014;
     }
     public static final class style {
         /** 
