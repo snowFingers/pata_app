@@ -5,10 +5,12 @@
     <string name="inicio_name">Pata de Chucho</string>
     <string name="acerca_de">Acerca de&#8230;</string>
     <string name="app_menu">Menu</string>
-    <string name="title_inicio">Pata de Chucho</string>
-    <string name="title_eventos">Eventos</string>
-    <string name="title_galeria">Galeria</string>
-    <string name="title_perfil">Perfil</string>
+    <string name="mntlt_inicio">Pata de Chucho</string>
+    <string name="mntlt_eventos">Eventos</string>
+    <string name="mntlt_galeria">Galeria</string>
+    <string name="mntlt_tienda">Tienda</string>
+    <string name="mntlt_calendario">Calendario</string>
+    <string name="mntlt_perfil">Perfil</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 	<string name="lbl_quienes_somos">Quienes Somos:</string>
