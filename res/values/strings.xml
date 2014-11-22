@@ -10,6 +10,8 @@
     <string name="mntlt_galeria">Galeria</string>
     <string name="mntlt_tienda">Tienda</string>
     <string name="mntlt_calendario">Calendario</string>
+    <string name="mntlt_encuestas">Pata-Pregunta</string>
+    <string name="mntlt_sugerencias">Buzon de Sugerencias</string>
     <string name="mntlt_perfil">Perfil</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>

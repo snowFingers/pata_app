@@ -74,6 +74,11 @@ public class MainActivity extends ActionBarActivity
                 mTitle = getString(R.string.mntlt_calendario);
                 break;
             case 6:
+                mTitle = getString(R.string.mntlt_encuestas);
+                break;
+            case 7:
+                mTitle = getString(R.string.mntlt_sugerencias);
+            case 8:
                 mTitle = getString(R.string.mntlt_perfil);
                 break;
         }
