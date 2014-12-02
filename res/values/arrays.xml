@@ -5,11 +5,16 @@
         <item>Inicio</item>
         <item>Eventos</item>
         <item>Galeria</item>
-        <item>Tienda</item>
         <item>Calendario</item>
-        <item>Encuestas</item>
-        <item>Sugerencias</item>
-        <item>Perfil</item>  
+        <item>Login</item>
     </string-array>
+    <string-array name="patamenu_auth_options">
+        <item>Mis Cumbres</item>
+        <item>Mis Actividades</item>
+        <item>Tienda</item>
+        <item>Perfil</item>
+        <item>Sugerencias</item>
+    </string-array>
+
  
 </resources>

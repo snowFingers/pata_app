@@ -2,21 +2,34 @@
 <resources>
 
     <string name="app_name">Pata de Chucho</string>
-    <string name="inicio_name">Pata de Chucho</string>
-    <string name="acerca_de">Acerca de&#8230;</string>
-    <string name="app_menu">Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="facebook_app_id">1492392937707787</string>
+
+<!--    Etiquetas (lbl)    -->
+
+    <string name="lbl_quienes_somos">Quienes Somos:</string>
+
+<!--  Titulos de Menu (mntlt)    -->
+
+    <string name="mntlt_titulo">Menu</string>
     <string name="mntlt_inicio">Pata de Chucho</string>
     <string name="mntlt_eventos">Eventos</string>
     <string name="mntlt_galeria">Galeria</string>
-    <string name="mntlt_tienda">Tienda</string>
     <string name="mntlt_calendario">Calendario</string>
-    <string name="mntlt_encuestas">Pata-Pregunta</string>
+    <string name="mntlt_login">Facebook Login</string>
+    <string name="mntlt_cumbres">Mis Cumbres</string>
+    <string name="mntlt_actividades">Mis Actividades</string>
+    <string name="mntlt_tienda">Tienda</string>
     <string name="mntlt_sugerencias">Buzon de Sugerencias</string>
     <string name="mntlt_perfil">Perfil</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-	<string name="lbl_quienes_somos">Quienes Somos:</string>
-    <string name="action_settings">Settings</string>
+
 <!--     <string name="action_menu">Accion</string> -->
+
+<!-- Actions Menu (mnact)    -->
+
+    <string name="mnact_settings">Settings</string>
+    <string name="mnact_acerca_de">Acerca de&#8230;</string>
+
     
 </resources>

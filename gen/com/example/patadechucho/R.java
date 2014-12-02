@@ -17,6 +17,7 @@ public final class R {
         public static final int abc_slide_out_top=0x7f040005;
     }
     public static final class array {
+        public static final int patamenu_auth_options=0x7f0c0001;
         public static final int patamenu_options=0x7f0c0000;
     }
     public static final class attr {
@@ -1091,7 +1092,7 @@ containing a value of this type.
         public static final int ic_launcher=0x7f020059;
     }
     public static final class id {
-        public static final int action_acerca_de=0x7f050042;
+        public static final int action_acerca_de=0x7f050041;
         public static final int action_bar=0x7f05001c;
         public static final int action_bar_activity_content=0x7f050015;
         public static final int action_bar_container=0x7f05001b;
@@ -1103,7 +1104,7 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f050016;
         public static final int action_menu_presenter=0x7f050017;
         public static final int action_mode_close_button=0x7f050024;
-        public static final int action_settings=0x7f050041;
+        public static final int action_settings=0x7f050042;
         public static final int activity_chooser_view_content=0x7f050025;
         public static final int always=0x7f05000b;
         public static final int beginning=0x7f050011;
@@ -1259,22 +1260,31 @@ containing a value of this type.
         /**  Description of a share target (both in the list of such or the default share button) in a ShareActionProvider (share UI). [CHAR LIMIT=NONE] 
          */
         public static final int abc_shareactionprovider_share_with_application=0x7f0a000b;
-        public static final int acerca_de=0x7f0a000f;
-        public static final int action_settings=0x7f0a001c;
-        public static final int app_menu=0x7f0a0010;
         public static final int app_name=0x7f0a000d;
-        public static final int inicio_name=0x7f0a000e;
-        public static final int lbl_quienes_somos=0x7f0a001b;
-        public static final int mntlt_calendario=0x7f0a0015;
-        public static final int mntlt_encuestas=0x7f0a0016;
-        public static final int mntlt_eventos=0x7f0a0012;
-        public static final int mntlt_galeria=0x7f0a0013;
-        public static final int mntlt_inicio=0x7f0a0011;
-        public static final int mntlt_perfil=0x7f0a0018;
-        public static final int mntlt_sugerencias=0x7f0a0017;
-        public static final int mntlt_tienda=0x7f0a0014;
-        public static final int navigation_drawer_close=0x7f0a001a;
-        public static final int navigation_drawer_open=0x7f0a0019;
+        public static final int facebook_app_id=0x7f0a0010;
+        /**     Etiquetas (lbl)    
+         */
+        public static final int lbl_quienes_somos=0x7f0a0011;
+        public static final int mnact_acerca_de=0x7f0a001e;
+        /**      <string name="action_menu">Accion</string> 
+ Actions Menu (mnact)    
+         */
+        public static final int mnact_settings=0x7f0a001d;
+        public static final int mntlt_actividades=0x7f0a0019;
+        public static final int mntlt_calendario=0x7f0a0016;
+        public static final int mntlt_cumbres=0x7f0a0018;
+        public static final int mntlt_eventos=0x7f0a0014;
+        public static final int mntlt_galeria=0x7f0a0015;
+        public static final int mntlt_inicio=0x7f0a0013;
+        public static final int mntlt_login=0x7f0a0017;
+        public static final int mntlt_perfil=0x7f0a001c;
+        public static final int mntlt_sugerencias=0x7f0a001b;
+        public static final int mntlt_tienda=0x7f0a001a;
+        /**   Titulos de Menu (mntlt)    
+         */
+        public static final int mntlt_titulo=0x7f0a0012;
+        public static final int navigation_drawer_close=0x7f0a000f;
+        public static final int navigation_drawer_open=0x7f0a000e;
     }
     public static final class style {
         /** 
